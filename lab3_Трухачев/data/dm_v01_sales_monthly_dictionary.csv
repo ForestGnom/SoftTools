@@ -1,0 +1,9 @@
+поле,тип в pandas,тип в DataLens,пример
+month,object,Дата,2017-01-01
+year,int64,Целое число,2017
+region,object,Строка,Север
+state,object,Строка,AC
+orders,int64,Целое число,2
+gmv,float64,Дробное число,723.14
+items,int64,Целое число,4
+customers,int64,Целое число,1
